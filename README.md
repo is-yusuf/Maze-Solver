@@ -39,4 +39,7 @@ then the resulting maze would be printed as follows:
 +-----+-----+-----+
 ```
 
-![](image/README/1632449473771.png)
+## Output
+![image](https://user-images.githubusercontent.com/82184077/134607989-0f4e6e67-cde7-4d91-9c55-3ad57651792d.png)
+</br>
+![image](https://user-images.githubusercontent.com/82184077/134608033-d78b3301-2938-4135-84c2-4afa4fbcfc3e.png)
